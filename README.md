@@ -1,6 +1,6 @@
 ### Hej
 
-I am José Areia, a passionate Researcher and dedicated Software Engineering Student at Polytechnic of Leiria.
+My name is José Areia, and I'm an enthusiastic researcher and committed student of Computer Engineering at the Polytechnic of Leiria.
 
 Currently working on my final project: A Machine Learning-Based Intrusion Detection System for the Internet of Medical Things.
 
