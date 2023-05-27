@@ -1,4 +1,4 @@
-### Hello
+### Hej
 
 I am José Areia, a passionate Researcher and dedicated Software Engineering Student at Polytechnic of Leiria.
 
