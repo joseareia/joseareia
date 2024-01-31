@@ -1,7 +1,9 @@
 ### Hej
 
-My name is José Areia, and I'm a MSc Cybersecurity & Digital Forensics student at the Polytechnic of Leiria. Concurrently, I work as an Invited Assistant Professor and as a Graduate Student Researcher at the same institution.
+I'm José Areia, a graduate student pursuing an MSc in Cybersecurity & Digital Forensics at the Polytechnic of Leiria. Alongside my studies, I serve as an Invited Assistant Professor and Graduate Student Researcher at the same institution.
 
-My current focus is on the research project "Secure and Privacy-Preserving Machine Learning" at the Computer Science and Communication Research Centre of the Polytechnic of Leiria. Additionally, I teach Computer Technology within the Short Cycle Program of Cybersecurity and Computer Networks.
+My current focus is on the research project "Secure and Privacy-Preserving Machine Learning" at the Computer Science and Communication Research Centre of the Polytechnic of Leiria. Additionally, I teach Network and Computer Systems Security within the Short Cycle Program of Cybersecurity and Computer Networks.
+
+Please explore the [Achinkad](https://github.com/Achinkad/) organization to discover the projects I've developed during both my BSc and MSc courses.
 
 💬 If you're interested in connecting with me, you can do it by E-mail or [LinkedIn](https://www.linkedin.com/in/joseareia/).
