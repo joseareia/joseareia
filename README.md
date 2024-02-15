@@ -1,4 +1,4 @@
-### Hej
+### Hej 👋
 
 I'm José Areia, a graduate student pursuing an MSc in Cybersecurity & Digital Forensics at the Polytechnic of Leiria. Alongside my studies, I serve as an Invited Assistant Professor and Graduate Student Researcher at the same institution.
 
