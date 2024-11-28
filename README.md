@@ -6,4 +6,6 @@ My current focus is on the research project "Secure and Privacy-Preserving Machi
 
 Please explore the [Achinkad Organisation](https://github.com/Achinkad/) to discover the projects I've developed during both my BSc and MSc courses.
 
-💬 If you're interested in connecting with me, you can do it by <a href="mailto:jose.apareia@gmail.com">E-mail</a> or [LinkedIn](https://www.linkedin.com/in/joseareia/).
+If you're interested in connecting with me, you can do it by <a href="mailto:jose.apareia@gmail.com">E-mail</a> or [LinkedIn](https://www.linkedin.com/in/joseareia/).
+
+_P.S. If you're interested, you can visit both my Stack Overflow and TeX Exchange profiles._
