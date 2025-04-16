@@ -2,7 +2,7 @@
 
 I’m José Areia, an MSc student in Cybersecurity & Digital Forensics at the [Polytechnic of Leiria](https://www.ipleiria.pt/politecnico/institucional/politecnico/), where I also work as an Invited Assistant Professor and Research Fellow.
 
-My research focuses on the project _SSP WP6 – Stone Sustainable Empower_ at the Computer Science and Communication Research Centre. I also teach in the Short Cycle Program of Cybersecurity and Computer Networks.
+My research focuses on the project "SSP WP6 – Stone Sustainable Empower" at the Computer Science and Communication Research Centre. I also teach in the Short Cycle Program of Cybersecurity and Computer Networks.
 
 Please explore the [Achinkad Organisation](https://github.com/Achinkad/) to discover the projects I've developed during both my BSc and MSc courses.
 
