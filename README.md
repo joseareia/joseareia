@@ -1,4 +1,4 @@
-### Halló þarna! 👋
+<!--- ### Halló þarna! 👋 --->
 
 I’m José Areia, an MSc student in Cybersecurity & Digital Forensics at the [Polytechnic of Leiria](https://www.ipleiria.pt/politecnico/institucional/politecnico/), where I also work as an Invited Assistant Professor and Research Fellow.
 
