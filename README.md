@@ -8,4 +8,4 @@ Please explore the [Achinkad Organisation](https://github.com/Achinkad/) to disc
 
 If you'd like to connect with me, you can reach out via <a href="mailto:jose.apareia@gmail.com">E-mail</a> or [LinkedIn](https://www.linkedin.com/in/joseareia/).
 
-_P.S. You can also check out my activity on [Stack Overflow](https://stackoverflow.com/users/18206310/joseareia) and [TeX Exchange](https://tex.stackexchange.com/users/355054/joseareia)._
+_P.S. Feel free to explore my contributions on [TeX Exchange](https://tex.stackexchange.com/users/355054/joseareia) and view my academic profile on [ORCID](https://orcid.org/0009-0000-0595-0468)._
