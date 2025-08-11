@@ -1,6 +1,6 @@
 <!--- ### Halló þarna! 👋 --->
 
-Master’s student in Cybersecurity and Digital Forensics at the Polytechnic University of Leiria, concurrently serving as an Invited Assistant Professor and Research Fellow. All academic projects are showcased through the [Achinkad Organisation](https://github.com/Achinkad).
+Master’s student in Cybersecurity and Digital Forensics, and Research Fellow. Experienced across multiple domains of computer science, specialising in the intersection of artificial intelligence and cybersecurity, particularly adversarial attacks. Academic projects are showcased via the [Achinkad Organisation](https://github.com/Achinkad).
 
 For contact, please refer to <a href="mailto:jose.apareia@gmail.com">E-mail</a> or [LinkedIn](https://www.linkedin.com/in/joseareia).
 
